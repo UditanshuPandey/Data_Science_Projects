@@ -10,5 +10,5 @@ The data for this project is sourced from publicly available real estate listing
 <li>Availability of amenities</li>
 </ul>
 <br>
-Distance from key locations (e.g., schools, hospitals, parks)
+
 ![bangalore house price predictor](https://github.com/UditanshuPandey/Data_Science_Projects/assets/75218958/2f148cd5-af6e-458c-ae40-07e2a2b989bc)
