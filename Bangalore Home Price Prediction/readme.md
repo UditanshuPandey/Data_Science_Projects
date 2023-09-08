@@ -1,1 +1,2 @@
+Welcome to the Bangalore Home Price Prediction project! This repository contains the code and resources for predicting home prices in Bangalore, India. The goal of this project is to build a machine learning model that can accurately predict the prices of houses in different neighborhoods in Bangalore.
 ![bangalore house price predictor](https://github.com/UditanshuPandey/Data_Science_Projects/assets/75218958/2f148cd5-af6e-458c-ae40-07e2a2b989bc)
