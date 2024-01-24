@@ -15,4 +15,5 @@ Explore our diverse collection of data science projects, each contained in its o
 <br>
 <ol>
   <li><a href='https://github.com/UditanshuPandey/Data_Science_Projects/tree/main/Bangalore%20Home%20Price%20Prediction'>Bangalore Home Price Prediction</a> - Predicting home prices in Bangalore using machine learning to assist buyers and sellers in making informed real estate decisions.</li>
+  <li><a href='https://github.com/UditanshuPandey/Data_Science_Projects/tree/main/Happy%20Or%20Sad%20Image%20Classification'>Happy or Sad Image Classification</a> - Used CNN(Convolutional Neural Network) to clasify whether a person in the image is happy or sad.</li>
 </ol>
